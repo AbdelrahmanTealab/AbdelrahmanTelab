@@ -1,8 +1,19 @@
 - 👋 Hi, I’m @AbdelrahmanTealab
 - 👀 I’m interested in ...
+      iOS Development, 
+      Swift, 
+      Python, 
+      React-Native, 
+      Data Engineering, 
+      and Analytics !
 - 🌱 I’m currently learning ...
+-     React-Native, 
+-     Swift
 - 💞️ I’m looking to collaborate on ...
+-     Mobile Applications,
+-     Mobile Games,
 - 📫 How to reach me ...
+-     a.tealab@icloud.com
 
 <!---
 AbdelrahmanTealab/AbdelrahmanTealab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
