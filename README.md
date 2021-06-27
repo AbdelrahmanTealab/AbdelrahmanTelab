@@ -1,17 +1,17 @@
 - 👋 Hi, I’m @AbdelrahmanTealab
 - 👀 I’m interested in ...
-      *iOS Development*, 
-      *Swift*, 
-      Python, 
-      React-Native, 
-      Data Engineering, 
-      and Analytics !
+-     iOS Development
+-     Swift 
+-     Python
+-     React-Native
+-     Data Engineering
+-     Analytics
 - 🌱 I’m currently learning ...
--     React-Native, 
+-     React-Native 
 -     Swift
 - 💞️ I’m looking to collaborate on ...
--     Mobile Applications,
--     Mobile Games,
+-     Mobile Applications
+-     Mobile Games
 - 📫 How to reach me ...
 -     a.tealab@icloud.com
 
