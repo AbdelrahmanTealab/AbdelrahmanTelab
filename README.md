@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AbdelrahmanTealab
 - 👀 I’m interested in ...
-      iOS Development, 
-      Swift, 
+      *iOS Development*, 
+      *Swift*, 
       Python, 
       React-Native, 
       Data Engineering, 
